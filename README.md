@@ -41,7 +41,7 @@ Antes de comenzar, asegúrese de tener instalado:
 
 ## Ambientalación
 1. Descargue las fuentes clonando el repositorio:
-   Checkout https://10.67.106.110:8443/svn/Diagnosticador_Nodos_Nuevo/msext_diagno_consultas_diagnodos_db
+   https://github.com/ccaceresumtuser2/calculos-aportes-ms.git
    
 2. Compile el proyecto utilizando Maven:
    mvn clean install (maven install)
